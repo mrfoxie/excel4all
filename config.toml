@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-US"
 defaultContentLanguage = ""
 
-title = "Excel for All"
+title = "Hugo Learn Documentation"
 theme = "hugo-theme-learn"
 themesdir = "themes"
 metaDataFormat = "yaml"
