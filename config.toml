@@ -18,6 +18,7 @@ defaultContentLanguageInSubdir= true
   disableLandingPageButton = true
   disableLanguageSwitchingButton = true
   disableMermaid = false
+  disableInlineCopyToClipBoard = true
   customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
   titleSeparator = "::"
   themeVariant = "green"
