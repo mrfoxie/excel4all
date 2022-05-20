@@ -1,5 +1,5 @@
 ---
-title: "Learn Theme for Hugo"
+title: "Excel for All"
 ---
 
 # Hugo learn theme
